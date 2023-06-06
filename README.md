@@ -6,5 +6,6 @@
 ![Screenshot 2023-06-06 122022](https://github.com/Piyushhh11/CodeClause_GoldenProject1_GitHub-Explorer/assets/113534923/465bf309-48bf-4357-a738-20161baab3cf)
 
 ***If the username is incorrect  then you will see the invalid username.
-![Screenshot 2023-06-06 122459](https://github.com/Piyushhh11/CodeClause_GoldenProject1_GitHub-Explorer/assets/113534923/561c5435-4e49-49f1-ba73-e6084da9fc25)
-![Screenshot 2023-06-06 122644](https://github.com/Piyushhh11/CodeClause_GoldenProject1_GitHub-Explorer/assets/113534923/54bded9f-01cb-4f5c-9dfa-05920b4eff64)
+![Screenshot 2023-06-06 122644](https://github.com/Piyushhh11/CodeClause_GoldenProject1_GitHub-Explorer/assets/113534923/fe98bec7-eb5d-4fd0-9295-5bec4ca75a03)
+![Screenshot 2023-06-06 122459](https://github.com/Piyushhh11/CodeClause_GoldenProject1_GitHub-Explorer/assets/113534923/04dd075f-8326-4497-8dc7-35f1c07f1e8d)
+
